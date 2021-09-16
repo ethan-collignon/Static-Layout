@@ -1,5 +1,78 @@
+#id{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .navContainer{
     padding: 16px, 24px;
     background-color: light yellow;
     border-style: solid;
+}
+
+.navbar {
+
+}
+
+.logIn {
+    position: relative;
+    float: right;
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.wrapper1 {
+    position: relative;
+    padding-top: 200px;
+}
+
+.container1 {
+    position: relative;
+}
+
+.Textbox1 {
+    position: relative;
+    float: left;
+    margin: 50px, 50px, 50px, 50px;
+}
+
+.button1 {
+    color: ivory;
+    background-color: teal;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 14px;
+    padding: 10px 15px;
+    text-decoration: inherit;
+    
+    
+}
+
+.screenshot {
+    position: relative;
+    float: right;
+}
+
+
+
+
+
+.wrapper2 {
+    position: relative;
+    padding-top: 700px;
+}
+
+.container2 {
+    position: relative;
+}
+
+.textbox2 {
+    position: relative;
+    float: right;
+    padding-bottom: 200px;
+}
+
+.bottomtext {
+    position: relative;
+    padding-top: 400px;
+    text-align-last: center;
 }
