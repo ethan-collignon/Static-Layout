@@ -42,6 +42,12 @@
     text-size-adjust: 50%;
 }
 
+.chromeLink {
+    position: relative;
+    z-index: 15;
+    padding: 100px 100px 100x 50px;
+}
+
 #button1 {
     color: ivory;
     background-color: teal;
@@ -49,8 +55,7 @@
     border-radius: 12px;
     font-size: 14px;
     padding: 10px 15px;
-    text-decoration: inherit;  
-    z-index: 1;
+    text-decoration: inherit;
 }
 
 .image1 {
